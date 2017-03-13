@@ -1,0 +1,42 @@
+body {
+    font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+.header {
+    color: #0062c9;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.image0, .image1, .image2, .image3, .image4, .image5, .image6 {
+    width: 120px;
+    height: 164px;
+    display: block;
+    margin: auto;
+    background: url('../assets/hangman1.png');
+}
+
+.image1 {
+    background: url('../assets/hangman2.png');
+}
+
+.image2 {
+    background: url('../assets/hangman3.png');
+}
+
+.image3 {
+    background: url('../assets/hangman4.png');
+}
+
+.image4 {
+    background: url('../assets/hangman5.png');
+}
+
+.image5 {
+    background: url('../assets/hangman6.png');
+}
+
+.image6 {
+    background: url('../assets/hangman7.png');
+}
